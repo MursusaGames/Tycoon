@@ -1,0 +1,213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab612536e12e4904aa3846a4f3e6fb68, type: 3}
+  m_Name: User Data
+  m_EditorClassIdentifier: 
+  allPlayTimeInMinutes: 3
+  userName:
+    value: Pol
+  coins:
+    value: 27253.4
+  _coins:
+    value: 27,3k
+  cristalls:
+    value: 5
+  _crystalls:
+    value: 0
+  gold:
+    value: 100
+  _gold:
+    value: 10
+  offlineLimit: 2
+  ADMultiplier: 1
+  ADSpeedMultiplier: 1
+  headCut_1_multiplier:
+    value: 1
+  headCut_1_multiplierCoef:
+    value: 2
+  headCut_2_multiplier:
+    value: 1
+  headCut_2_multiplierCoef:
+    value: 2
+  fishClean_1_multiplier:
+    value: 1
+  fishClean_1_multiplierCoef:
+    value: 2
+  fishClean_2_multiplier:
+    value: 1
+  fishClean_2_multiplierCoef:
+    value: 2
+  fishClean_3_multiplier:
+    value: 1
+  fishClean_3_multiplierCoef:
+    value: 2
+  steakMashine_multiplier:
+    value: 1
+  steakMashine_multiplierCoef:
+    value: 2
+  farshMashine_multiplier:
+    value: 1
+  farshMashine_multiplierCoef:
+    value: 2
+  fileMashine_multiplier:
+    value: 1
+  fileMashine_multiplierCoef:
+    value: 2
+  packingMashine_1_multiplier:
+    value: 1
+  packingMashine_1_multiplierCoef:
+    value: 2
+  packingMashine_2_multiplier:
+    value: 1
+  packingMashine_2_multiplierCoef:
+    value: 2
+  packingMashine_3_multiplier:
+    value: 1
+  packingMashine_3_multiplierCoef:
+    value: 2
+  warehousePromice:
+    value: 5
+  zone1Car: 1
+  zone1CarLevel: 1
+  zone1CarCapasity: 1
+  zone1CarSpeed: 10.3
+  finishZoneCarLevel: 1
+  finishZoneCarCapasity: 1
+  finishZoneCarSpeed: 10.3
+  ship: 0
+  shipLevel: 1
+  shipSpeed: 10.3
+  shipCapasity: 2
+  ship1Level: 1
+  ship1Speed: 10.3
+  carPort: 1
+  carPortLevel: 1
+  carPortCapasity: 1
+  carPortSpeed: 10.3
+  carPortSpeedLevel: 1
+  zoneOutWar: 1
+  zoneOutWarLevel: 1
+  zoneOutWarCapasity: 1
+  zoneOutWarSpeed: 10.3
+  zoneInWar: 0
+  zoneInWarLevel: 1
+  zoneInWarCapasity: 1
+  zoneInWarSpeed: 10.3
+  zoneInWarSpeedLevel: 1
+  zone2Car: 1
+  zone2CarLevel: 1
+  zone2CarCapasity: 1
+  zone2CarSpeed: 10.3
+  zone3Car: 1
+  zone3CarCapacity: 1
+  zone3CarLevel: 1
+  zone3CarSpeed: 10.3
+  headCutingMashine: 1
+  headCutingMashinePromice: 80.4
+  _headCutingMashinePromice: 80,4
+  headCutingMashine2Promice: 1093333.3
+  _headCutingMashine2Promice: 1,1m
+  headCutingMashineLevel: 1
+  headCutingMashineSpeed: 20
+  headCutingMashineSpeedLevel: 1
+  headCutingMashine2Level: 1
+  headCutingMashine2Speed: 20
+  headCutingMashine2SpeedLevel: 1
+  fishCleaningMashine: 1
+  fishCleaningMashineLevel: 1
+  fishCleaningMashineSpeed: 45
+  fishCleaningMashineSpeedLevel: 1
+  fishCleaningMashinePromice: 296
+  _fishCleaningMashinePromice: 296,0
+  fishCleaningMashine2: 0
+  fishCleaningMashine2Level: 1
+  fishCleaningMashine2Speed: 45
+  fishCleaningMashine2SpeedLevel: 1
+  fishCleaningMashine2Promice: 5967
+  _fishCleaningMashine2Promice: 6,0k
+  fishCleaningMashine3: 0
+  fishCleaningMashine3Level: 1
+  fishCleaningMashine3Speed: 45
+  fishCleaningMashine3SpeedLevel: 1
+  fishCleaningMashine3Promice: 204800
+  _fishCleaningMashine3Promice: 204,8k
+  fishProcessingMashine: 0
+  fishProcessingMashineLevel: 1
+  fileMashine: 0
+  fileMashineLevel: 1
+  fileMashineSpeed: 45
+  fileMashineSpeedLevel: 1
+  fileMashinePromice: 3200570000
+  _fileMashinePromice: 3,2b
+  farshMashine: 0
+  farshMashineLevel: 1
+  farshMashineSpeed: 45
+  farshMashineSpeedLevel: 1
+  farshMashinePromice: 35700000
+  _farshMashinePromice: 35,7m
+  steakMashine: 0
+  steakMashineLevel: 1
+  steakMashineSpeed: 45
+  steakMashineSpeedLevel: 1
+  steakMashinePromice: 570000
+  _steakMashinePromice: 570,0k
+  packingMashine: 0
+  steakPackingMashinePromice: 15046296296.3
+  _steakPackingMashinePromice: 15,0b
+  steakPackingMashineLevel: 1
+  steakPackingMashineSpeed: 45
+  steakPackingMashineSpeedLevel: 1
+  farshPackingMashine: 0
+  farshPackingMashinePromice: 850046296296
+  _farshPackingMashinePromice: 850,0b
+  farshPackingMashineLevel: 1
+  farshPackingMashineSpeed: 45
+  farshPackingMashineSpeedLevel: 1
+  filePackingMashine: 0
+  filePackingMashinePromice: 750015046296296.2
+  _filePackingMashinePromice: 750,0t
+  filePackingMashineLevel: 1
+  filePackingMashineSpeed: 45
+  filePackingMashineSpeedLevel: 1
+  isWatchADCrystal: 1
+  isWatchADGold: 1
+  warehaus_updated: 0
+  getOrder: 0
+  inDeliver: 0
+  inWaiting: 0
+  closeGame: 1
+  timerOff: 0
+  fishInWarehouse: 0
+  unpSteakInWarehouse: 0
+  steakInWarehouse: 0
+  unpFarshInWarehouse: 0
+  farshInWarehouse: 0
+  unpFileInWarehouse: 0
+  fileInWarehouse: 0
+  fishPaletCost: 3010758677.8599997
+  unpSteakPaletCost: 3763448347.325
+  steakPaletCost: 5017931129.766666
+  unpFarshPaletCost: 0
+  farshPaletCost: 0
+  unpFilePaletCost: 0
+  filePaletCost: 0
+  currentProductID: 0
+  currentDeliverID: 0
+  currentmoney: 5343484459.7
+  currentgold: 0
+  currentProductCount: 0
+  currentMaxProductCount: 2
+  getOffer: 0
+  firstPurshase: 0
+  levelUser: Scaling Machine_1
+  dayInGame: 0
+  startGame: 6

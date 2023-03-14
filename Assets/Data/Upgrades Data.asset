@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c68e45053acb5c4587f85e44df204f1, type: 3}
+  m_Name: Upgrades Data
+  m_EditorClassIdentifier: 
+  eggCollectorStartEfficiency: 15
+  pourlyFarmerStartEfficiency: 15
+  farmStartEfficiency: 15
+  shipStartEfficiency: 15
+  eggCollectorCost: 250
+  pourlyFarmerCost: 250
+  farmCost: 2500
+  shipCost: 975500
+  carPortCost: 550500
+  carInWarCost: 150500
+  carInsideWarCost: 1000000
+  zone1CarCost: 1000000
+  zone2CarCost: 1000000
+  zone3CarCost: 950750
+  headCutingMashineCost: 500500000
+  _headCutingMashineCost: 
+  fishCleaning1MashineCost: 1500
+  _fishCleaning1MashineCost: 
+  fishCleaning2MashineCost: 500500
+  _fishCleaning2MashineCost: 
+  fishCleaning3MashineCost: 50100000
+  _fishCleaning3MashineCost: 
+  steakPackingMashineCost: 20500000000
+  _steakPackingMashineCost: 
+  farshPackingMashineCost: 1870000000000
+  filePackingMashineCost: 575500000000000
+  steakMashineCost: 3500000000
+  _steakMashineCost: 
+  farshMashineCost: 8700000000
+  _farshMashineCost: 
+  fileMashineCost: 17500000000
+  _fileMashineCost: 
+  carOutUpgradeCost: 1359.9
+  _carOutUpgradeCost: 1,4k
+  finishZoneCarUpgradeCost: 1359.9
+  _finishZoneCarUpgradeCost: 1,4k
+  war_1_upgradeCost: 100
+  _war_1_upgradeCost: 
+  shipUpgradeCost: 1359.9
+  _shipUpgradeCost: 1,4k
+  carPortUpgradeCost: 1359.9
+  _carPortUpgradeCost: 1,4k
+  zoneInWarUpgradeCost: 1359.9
+  _zoneInWarUpgradeCost: 1,4k
+  zoneInsideWarUpgradeCost: 0
+  _zoneInsideWarUpgradeCost: 
+  zone1CarUpgradeCost: 1359.9
+  _zone1CarUpgradeCost: 1,4k
+  zone2CarUpgradeCost: 1359.9
+  _zone2CarUpgradeCost: 1,4k
+  zone3CarUpgradeCost: 1359.9
+  _zone3CarUpgradeCost: 1,4k
+  stepOffMultyplyUpgrade: 2
+  headCutMashine_1_UpgradeCost:
+    value: 11.2
+  _headCutMashine_1_UpgradeCost:
+    value: 11,2
+  headCutMashine_2_UpgradeCost:
+    value: 6457577.1
+  _headCutMashine_2_UpgradeCost:
+    value: 6,5m
+  headCutMashine_1_UpgradeSpeedCost:
+    value: 763.2
+  _headCutMashine_1_UpgradeSpeedCost:
+    value: 763,2
+  headCutMashine_2_UpgradeSpeedCost:
+    value: 10143994.9
+  _headCutMashine_2_UpgradeSpeedCost:
+    value: 10,1m
+  fishCleanMashine_1_UpgradeCost:
+    value: 301.9
+  _fishCleanMashine_1_UpgradeCost:
+    value: 301,9
+  fishCleanMashine_1_UpgradeSpeedCost:
+    value: 1725
+  _fishCleanMashine_1_UpgradeSpeedCost:
+    value: 1,7k
+  fishCleanMashine_2_UpgradeCost:
+    value: 5064.7
+  _fishCleanMashine_2_UpgradeCost:
+    value: 5,1k
+  fishCleanMashine_2_UpgradeSpeedCost:
+    value: 28750
+  _fishCleanMashine_2_UpgradeSpeedCost:
+    value: 28,8k
+  fishCleanMashine_3_UpgradeCost:
+    value: 2133982.5
+  _fishCleanMashine_3_UpgradeCost:
+    value: 2,1m
+  fishCleanMashine_3_UpgradeSpeedCost:
+    value: 2875000
+  _fishCleanMashine_3_UpgradeSpeedCost:
+    value: 2,9m
+  steakMashine_UpgradeCost:
+    value: 95855970.6
+  _steakMashine_UpgradeCost:
+    value: 95,9m
+  steakMashine_UpgradeSpeedCost:
+    value: 683000000
+  _steakMashine_UpgradeSpeedCost:
+    value: 683,0m
+  farshMashine_UpgradeCost:
+    value: 4157549638.9
+  _farshMashine_UpgradeCost:
+    value: 4,2b
+  farshMashine_UpgradeSpeedCost:
+    value: 189500000000
+  _farshMashine_UpgradeSpeedCost:
+    value: 189,5b
+  fileMashine_UpgradeCost:
+    value: 150378521700.1
+  _fileMashine_UpgradeCost:
+    value: 150,4b
+  fileMashine_UpgradeSpeedCost:
+    value: 9600000000000
+  _fileMashine_UpgradeSpeedCost:
+    value: 9,6t
+  packingMashine_1_UpgradeCost:
+    value: 4755567058563.2
+  _packingMashine_1_UpgradeCost:
+    value: 4,8t
+  packingMashine_1_UpgradeSpeedCost:
+    value: 242338191390037.6
+  _packingMashine_1_UpgradeSpeedCost:
+    value: 242,3t
+  packingMashine_2_UpgradeCost:
+    value: 131795548498630.5
+  _packingMashine_2_UpgradeCost:
+    value: 131,8t
+  packingMashine_2_UpgradeSpeedCost:
+    value: 10677954088568688
+  _packingMashine_2_UpgradeSpeedCost:
+    value: 10,7K
+  packingMashine_3_UpgradeCost:
+    value: 9000677000000000
+  _packingMashine_3_UpgradeCost:
+    value: 9,0K
+  packingMashine_3_UpgradeSpeedCost:
+    value: 7.05209e+17
+  _packingMashine_3_UpgradeSpeedCost:
+    value: 705,2K

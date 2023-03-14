@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66b058913546b714cb329da4941c0c9c, type: 3}
+  m_Name: App Data
+  m_EditorClassIdentifier: 
+  userData: {fileID: 11400000, guid: 7c59f642c85c4384398a65144da123f0, type: 2}
+  localizationData: {fileID: 11400000, guid: 60b442bd088b0d745b3cdd2d655044f6, type: 2}
+  matchData: {fileID: 11400000, guid: fe0b351efbaa2774286c3964480b7614, type: 2}
+  moneyData: {fileID: 11400000, guid: 361500dec1e5707419b510bb153f33bf, type: 2}
+  upgradesData: {fileID: 11400000, guid: b33b93840465cde44a3b42ba03a1f9ad, type: 2}
+  rewardData: {fileID: 11400000, guid: af4a0b8faa4e0f24c8931aa6e3bf31cf, type: 2}
